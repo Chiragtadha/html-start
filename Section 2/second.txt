@@ -1,0 +1,13 @@
+LIST
+Unordered LIST  <ul><li></li></ul>
+Ordered LIST    <ol><li></li></ol>
+Nesting and indentation
+<ul>
+    <li></li>
+        <ul>
+            <li></li>
+            <li></li>
+        </ul>
+</ul>
+Anchor Elements  <a href="https://www.gmail.com">Google</a>
+Image Element  <img src="https://images.unsplash.com" alt="SORRY">

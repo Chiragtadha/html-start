@@ -1,0 +1,15 @@
+PATH
+c:/chirag.png,harshil and chirag/vishal.png,vishal.html and vishal/maya.png and maya.html
+c:/harshil/harshil.png
+
+Absolute file PATH
+/chirag/vishal/maya.png
+
+Relative file PATH(vishal.html)
+vishal.png - ./vishal.png (same directory)
+chirag.png - ../chirag.png (upper directory)
+
+chirah.png compare to maya.html- ../../chirag.png (Two step upper directory)
+
+harshil.png - ../harshil/harshil.png
+
